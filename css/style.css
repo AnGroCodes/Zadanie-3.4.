@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+    Font-Family: 'Cabin', Sans-Serif;
+    Font-Size: 16px;
+}
+h1 {
+    Font-Family: 'Roboto Condensed', Sans-Serif;
+    Font-Size: 35px;    
+}
