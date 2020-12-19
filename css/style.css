@@ -3,8 +3,10 @@ body {
     background-color: F4F5F5;
     Font-Family: 'Cabin', Sans-Serif;
     Font-Size: 16px;
+    color: #e1b12c;
+    
 }
 h1 {
     Font-Family: 'Roboto Condensed', Sans-Serif;
-    Font-Size: 35px;    
+    Font-Size: 35px;   
 }
